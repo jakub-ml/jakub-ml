@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">An enthusiastic meachine learning engineer from Poland</h3>
 
-- 🔭 I’m currently working on **ad**
-
+- 👀 I’m interested in **Machine Learning** and **Data Science**
 - 🌱 I’m currently learning **Azure**
-
-- 🤝 I’m looking for help with **d**
+- 💞️ I’m looking for a job
+- 📫 How to reach me jmieszczak@student.agh.edu.pl
+- 📝I I helped with writing a few AI articles:
+  * https://www.fingoweb.com/blog/how-to-build-ai-agent-comprehensive-guide/
+  * https://www.fingoweb.com/blog/agent-ai-understanding-how-it-works/
+  * https://www.fingoweb.com/blog/custom-made-chatgpt-for-your-organization/
+  * https://www.fingoweb.com/blog/what-are-the-differences-between-ai-libraries-and-how-to-utilize-them/
+ 
+    
+  and more at https://www.fingoweb.com/blog/
 
 
 <h3 align="left">Languages and Tools:</h3>
