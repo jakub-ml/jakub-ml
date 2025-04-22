@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Machine Learning** and **Data Science**
 - 🌱 I’m currently learning **Azure**
 - 💞️ I’m looking for a job
-- 📫 How to reach me jmieszczak@student.agh.edu.pl
+- 📫 How to reach me jmieszczak02@gmail.com
 - 📝I I helped with writing a few AI articles:
   * https://www.fingoweb.com/blog/how-to-build-ai-agent-comprehensive-guide/
   * https://www.fingoweb.com/blog/agent-ai-understanding-how-it-works/
